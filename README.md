@@ -1,6 +1,6 @@
 ## 신입 백엔드 개발자 김윤지입니다!
 
-<h3 align="center">✨ Stack ✨</h3>
+<h3 align="center">✨ STACK ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
