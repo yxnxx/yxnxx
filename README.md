@@ -1,4 +1,4 @@
-## 신입 백엔드 개발자 김윤지입니다!
+## ML Engineer 김윤지입니다!
 
 <h3 align="center">✨ STACK ✨</h3>
 <div align="center">
